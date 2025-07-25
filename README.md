@@ -6,5 +6,6 @@
 
 ## Authors
 
+- Patiphon Loetsuthakun (Phon), หนีไปนอนฝันดีกว่า 💤 - 25 July 2025
 - Vasu Chotikarnnithi (Vasu), ปกติเขียนโค้ดแล้วมีบั๊คกันหรอครับ? - 24 July 2025
 - Rapeepat Kaewprasit (Chun), สวัสดีคนที่อยู่ด้านบนฮะะ ☝️👋 - 24 July 2025
